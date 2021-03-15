@@ -11,61 +11,19 @@ Solution Integrator Experienced - Certified by Ericsson
 
 **About**
 
-This is intended to study the Krishnamurti Teachings in order to get the Visual Language to be described using `The Brain 9`.
+This is intended to study the Krishnamurti Teachings.
 
 <img src="images/screenshot.png" alt="Drawing" style="width: 600px;"/>
 
 **Table of Contents**
 
-```
-[x] ABSTRACT
-[x] ACKNOWLEDGEMENTS
-[x] INTRODUCTION
-Chapter 1. BIOGRAPHY, MAJOR WORKS, AND INFLUENCE
-[x] Early Childhood
-[x] The Theosophical Society
-[x] Some Pertinent Teachings of Theosophy
-[x] Krishnamurti among the Theosophists
-[x] Realization and Insight
-[x] Post-Theosophical Years, Works, and Influence
+Talks
 
-Chapter 2. APPROACH AND OVERVIEW
-[~] A: Significant Aspects of Krishnamurti's Approach
-[ ] B: Overview of the Content in Krishnamurti's Approach
-[x] Day One
-[ ] Day Two
-[ ] Day Three
-[ ] Day Four
-[ ] Day Five
+1968
+* [x] [Saanen 1968 –  Public Talk 1 – What is the essential issue in life?](https://www.youtube.com/watch?v=pWaeuYquzIw&list=PL1n30s-LKus4gD55pB3Zrov0j1d_jkc5o&index=13&t=5s)
+* [x] [Saanen 1968 –  Public Disc. 2 – Looking at oneself without words, images or pride](https://www.youtube.com/watch?v=MAL1NWnMNJU&list=PL1n30s-LKus4gD55pB3Zrov0j1d_jkc5o&index=16)
 
-Chapter 3. THE CONDITIONED MIND
-[ ] What-is Thought and Knowledge
+Refs.
 
-Chapter 4. INSIGHT
-[ ] Indirect Perception
-[ ] Observation, Attention, and Choiceless Awareness
-[ ] Insight
-[ ] Partial Insights
-[ ] Total Insight into What-is
-
-Chapter 5. THE RELIGIOUS MIND
-[ ] Silence, Timeless Space, Emptiness and Energy
-[ ] Understanding and Intelligence
-[ ] Love, Death, Creation, and Compassion
-[ ] Meditation and the Religious Life
-[ ] Truth, God, Mind, and the Ground of Existence
-
-Chapter 6. SUMMARY OF THE ANALYSIS.
-[ ]
-
-Chapter 7. GENERAL APPRAISAL OF KRISHNAMURTI'S APPROACH.
-[ ] Existing Criticisms
-[ ] Similarities to Other Religious Philosophies
-[ ] Mysticism
-[ ] Taoism
-[ ] Sankara's Vedanta
-[ ] Buddhism
-[ ] Implications for the Field of Religious Studies
-[ ] CONCLUSION
-[ ] BIBLIOGRAPHY
-```
+* [J. Krishnamurti - Audio Recordings](https://www.youtube.com/playlist?list=PL1n30s-LKus4gD55pB3Zrov0j1d_jkc5o)
+* [J. Krishnamurti - Video Recordings](https://www.youtube.com/channel/UC88A5W9XyWx7WSwthd5ykhw)
